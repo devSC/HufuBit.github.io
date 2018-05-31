@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "W25J5ZF9LK.com.hufubit.cryptowallet",
+                "paths": [ "/ul/*"]
+            }
+        ]
+    }
+}
